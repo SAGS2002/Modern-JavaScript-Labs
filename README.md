@@ -49,17 +49,5 @@ class Mago extends Personaje {
         // ...
     }
 }
-🛠️ Cómo ejecutar los proyectos
-Clonar el repositorio:
-
-Bash
-
-git clone [https://github.com/SAGS2002/Modern-JavaScript-Labs.git](https://github.com/SAGS2002/Modern-JavaScript-Labs.git)
-Ejecutar cualquier script: Necesitas tener Node.js instalado para correr los archivos .js desde la terminal.
-
-Bash
-
-node "CURSO JAVASCRIPT/Basico/01-variables.js"
-(Puedes reemplazar la ruta con cualquier archivo que quieras probar)
-
+```
 <div align="center"> <sub>Desarrollado con ❤️ por Sebastián Gallardo</sub> </div>
