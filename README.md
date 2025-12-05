@@ -49,4 +49,17 @@ class Mago extends Personaje {
     }
 }
 ```
+
+---
+
+## 👏 Créditos y Agradecimientos
+
+Este repositorio es el resultado de mi aprendizaje siguiendo el curso de **JavaScript desde cero** impartido por **Brais Moure (@mouredev)**.
+* 🎓 **Curso original:** [JavaScript desde Cero - MoureDev](https://github.com/mouredev/hello-javascript)
+* 👾 **Docente:** [Brais Moure](https://github.com/mouredev)
+
+Los ejercicios han sido resueltos y documentados por mí como parte de mi proceso de estudio.
+
+---
+
 <div align="center"> <sub>Desarrollado con ❤️ por Sebastián Gallardo</sub> </div>
